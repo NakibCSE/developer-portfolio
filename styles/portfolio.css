@@ -90,4 +90,16 @@ main{
 }
 .about-info-container{
     display: flex;
+    justify-content: space-around;
+}
+
+.about .info-title{
+    font-size: 20px;
+    color: #757575;
+}
+
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
+    color: #747474;
 }
